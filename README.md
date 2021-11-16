@@ -1,5 +1,7 @@
 ### Hi there 👋 this is "凉生丶因源"
 
+<hr />
+
 <img src="https://github-readme-stats.vercel.app/api?username=liangsheng8708&show_icons=true&include_all_commits=true&theme=tokyonight" />
 <!--
 **liangsheng8708/liangsheng8708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
